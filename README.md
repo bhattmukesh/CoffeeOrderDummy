@@ -1,17 +1,14 @@
-# number_trivia_dummy
+# ☕ Coffee Order App
 
-A new Flutter project.
+A Flutter app to order coffee easily.(Only UI and Not the order Taking App)
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+### Home Screen
+![Home Screen 1](screenshots/2.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Home Screen 2](screenshots/3.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Icon](screenshots/app_icons.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# CoffeeOrderDummy
+![AppName & Icon](screenshots/1.png)
