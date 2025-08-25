@@ -1,4 +1,4 @@
-# ☕ Coffee Order App
+# ☕ Coffee Order App Flutter Mobile App
 
 A Flutter app to order coffee easily.(Only UI and Not the order Taking App)
 
